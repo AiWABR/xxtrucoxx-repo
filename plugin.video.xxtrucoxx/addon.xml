@@ -2,7 +2,7 @@
 <addon
     id="plugin.video.xxtrucoxx"   
     name="XxTRUCOxX"
-    version="1.0.2"
+    version="1.0.3"
     provider-name="XxTRUCOxX">
    <requires>
      <import addon="xbmc.python" version="2.1.0"/>
@@ -16,8 +16,8 @@
    </extension>
    <extension point="xbmc.python.module" library="lib" />
    <extension point="xbmc.addon.metadata">
-	 <summary lang="en">Watch [COLOR red][B]ADULT[/COLOR][/B] Movies From XxTRUCOxX</summary>
-	 <description lang="en">Follow Us On Twitter, @xxtrucoxx01 , Request Movie's.</description>
+	 <summary lang="pt">Assista videos e filmes [COLOR red][B]ADULTOS[/COLOR][/B] encodado e upado por XxTRUCOxX.</summary>
+	 <description lang="pt">Assista videos e filmes [COLOR red][B]ADULTOS[/COLOR][/B] encodado e upado por XxTRUCOxX. Atualizado diariamente!</description>
 	 <platform></platform>
      <language></language>
 	 <license></license>
